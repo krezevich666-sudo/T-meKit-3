@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name" translatable="false">TāmeKit</string>
+    <string name="lang_lv" translatable="false">Latviešu</string>
+    <string name="lang_en" translatable="false">English</string>
+    <string name="lang_ru" translatable="false">Русский</string>
+    <string name="tab_home">Sākums</string>
+    <string name="tab_estimates">Tāmes</string>
+    <string name="tab_materials">Materiāli</string>
+    <string name="tab_customers">Klienti</string>
+    <string name="tab_settings">Iestatījumi</string>
+    <string name="home_greeting">Labdien!</string>
+    <string name="home_subtitle">Jūsu uzņēmuma darba pārskats</string>
+    <string name="stat_estimates">Tāmes</string>
+    <string name="stat_customers">Klienti</string>
+    <string name="stat_materials">Materiāli</string>
+    <string name="stat_low">Zems atlikums</string>
+    <string name="quick_actions">Ātrās darbības</string>
+    <string name="new_estimate">Jauna tāme</string>
+    <string name="add_customer">Pievienot klientu</string>
+    <string name="add_material">Pievienot materiālu</string>
+    <string name="estimates_soon">Tāmju aprēķins tiks pievienots nākamajā posmā.</string>
+    <string name="customers_empty">Vēl nav klientu</string>
+    <string name="materials_empty">Vēl nav materiālu</string>
+    <string name="customer_name">Vārds vai nosaukums</string>
+    <string name="name">Nosaukums</string>
+    <string name="phone">Tālrunis</string>
+    <string name="email">E-pasts</string>
+    <string name="address">Adrese</string>
+    <string name="reg_number">Reģistrācijas numurs</string>
+    <string name="unit">Mērvienība</string>
+    <string name="unit_default">gab.</string>
+    <string name="price">Iepirkuma cena (EUR)</string>
+    <string name="stock">Atlikums</string>
+    <string name="min_stock">Minimālais atlikums</string>
+    <string name="save">Saglabāt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="saved">Saglabāts</string>
+    <string name="language">Valoda</string>
+    <string name="company">Uzņēmums</string>
+    <string name="company_name">Uzņēmuma nosaukums</string>
+    <string name="invalid_value">Nederīga vērtība</string>
+    <string name="quantity">Daudzums</string>
+    <string name="new_balance">Jaunais atlikums</string>
+    <string name="note">Piezīme</string>
+    <string name="close">Aizvērt</string>
+    <string name="opening">Sākuma atlikums</string>
+    <string name="type_in">Ienākšana</string>
+    <string name="type_out">Izlietojums</string>
+    <string name="type_adj">Korekcija</string>
+    <string name="not_enough">Izlietojums pārsniedz atlikumu</string>
+    <string name="backup">Rezerves kopija</string>
+    <string name="export_data">Eksportēt datus (JSON)</string>
+    <string name="restore_data">Atjaunot no faila</string>
+    <string name="export_ok">Dati eksportēti</string>
+    <string name="export_fail">Neizdevās eksportēt</string>
+    <string name="restore_ok">Dati atjaunoti</string>
+    <string name="restore_fail">Neizdevās atjaunot: fails nav derīgs</string>
+    <string name="restore_warn">Atjaunošana aizvietos visus pašreizējos datus.</string>
+    <string name="search">Meklēt</string>
+    <string name="demo">Demonstrācija</string>
+    <string name="demo_load">Ielādēt demonstrācijas datus</string>
+    <string name="demo_loaded">Demonstrācijas dati ielādēti</string>
+    <string name="demo_not_empty">Datubāze nav tukša, demonstrācijas dati netika ielādēti</string>
+    <string name="clear_all">Dzēst visus datus</string>
+    <string name="clear_warn">Tiks neatgriezeniski dzēsti visi dati (uzņēmums, klienti, materiāli, kustības). Vispirms eksportē rezerves kopiju.</string>
+</resources>

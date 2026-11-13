@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.TameKit" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
